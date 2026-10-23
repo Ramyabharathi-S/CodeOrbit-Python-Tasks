@@ -1,0 +1,72 @@
+Welcome to CodeOrbit Simple Calculator!
+
+=============================================
+      CODEORBIT TECH - SIMPLE CALCULATOR     
+=============================================
+Select an operation:
+  1. Addition (+)
+  2. Subtraction (-)
+  3. Multiplication (*)
+  4. Division (/)
+  5. Floor Division (//)
+  6. Modulus (%)
+  7. Exponentiation (^)
+  8. Exit
+=============================================
+Enter choice (1-8 or operation symbol): 1
+Enter the first number: 25.5
+Enter the second number: 14.5
+
+-----------------------------------
+Result: 25.5 + 14.5 = 40
+-----------------------------------
+
+Perform another calculation? (y/n): y
+
+=============================================
+      CODEORBIT TECH - SIMPLE CALCULATOR     
+=============================================
+Select an operation:
+  1. Addition (+)
+  2. Subtraction (-)
+  3. Multiplication (*)
+  4. Division (/)
+  5. Floor Division (//)
+  6. Modulus (%)
+  7. Exponentiation (^)
+  8. Exit
+=============================================
+Enter choice (1-8 or operation symbol): 4
+Enter the first number: 100
+Enter the second number: 0
+
+-----------------------------------
+[Math Error] Cannot divide by zero.
+-----------------------------------
+
+Perform another calculation? (y/n): y
+
+=============================================
+      CODEORBIT TECH - SIMPLE CALCULATOR     
+=============================================
+Select an operation:
+  1. Addition (+)
+  2. Subtraction (-)
+  3. Multiplication (*)
+  4. Division (/)
+  5. Floor Division (//)
+  6. Modulus (%)
+  7. Exponentiation (^)
+  8. Exit
+=============================================
+Enter choice (1-8 or operation symbol): 4
+Enter the first number: 100
+Enter the second number: 4
+
+-----------------------------------
+Result: 100 / 4 = 25
+-----------------------------------
+
+Perform another calculation? (y/n): n
+
+Thank you for using CodeOrbit Simple Calculator. Goodbye!

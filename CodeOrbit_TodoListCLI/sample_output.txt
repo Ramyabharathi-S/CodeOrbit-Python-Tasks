@@ -1,0 +1,65 @@
+Welcome to CodeOrbit To-Do List CLI App!
+Loaded 4 task(s) from tasks.txt.
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Remove Task
+5. Save Tasks to File
+6. Exit
+Select an option (1-6): 1
+
+================================================
+                 MY TO-DO LIST                  
+================================================
+   1. [ ] Review CodeOrbit Python Tasks PDF [Pending]
+   2. [X] Complete Simple Calculator Task  [DONE]
+   3. [ ] Build To-Do List CLI App         [Pending]
+   4. [ ] Push completed projects to GitHub [Pending]
+================================================
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Remove Task
+5. Save Tasks to File
+6. Exit
+Select an option (1-6): 2
+
+Enter task description: Record LinkedIn demonstration video
+[Success] Task added: "Record LinkedIn demonstration video"
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Remove Task
+5. Save Tasks to File
+6. Exit
+Select an option (1-6): 3
+
+================================================
+                 MY TO-DO LIST                  
+================================================
+   1. [ ] Review CodeOrbit Python Tasks PDF [Pending]
+   2. [X] Complete Simple Calculator Task  [DONE]
+   3. [ ] Build To-Do List CLI App         [Pending]
+   4. [ ] Push completed projects to GitHub [Pending]
+   5. [ ] Record LinkedIn demonstration video [Pending]
+================================================
+
+Enter task number to mark as completed: 3
+[Success] Task #3 marked as completed!
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Remove Task
+5. Save Tasks to File
+6. Exit
+Select an option (1-6): 6
+
+All tasks saved to tasks.txt. Thank you for using CodeOrbit To-Do List!

@@ -1,0 +1,84 @@
+Welcome to CodeOrbit Automated File Organizer!
+
+====================================================
+  CODEORBIT TECH - FILE AUTOMATION UTILITY  
+====================================================
+1. Generate Sample Test Files (Sandbox)
+2. Preview Organization (Safe Dry-Run)
+3. Organize Files into Category Folders (Live)
+4. Bulk Batch Rename Files
+5. View Activity Audit Log
+6. Exit
+====================================================
+Select an option (1-6): 1
+Enter directory name for samples (press Enter for 'test_files'): 
+[Success] Created 11 sample test files inside 'test_files/'.
+
+====================================================
+  CODEORBIT TECH - FILE AUTOMATION UTILITY  
+====================================================
+1. Generate Sample Test Files (Sandbox)
+2. Preview Organization (Safe Dry-Run)
+3. Organize Files into Category Folders (Live)
+4. Bulk Batch Rename Files
+5. View Activity Audit Log
+6. Exit
+====================================================
+Select an option (1-6): 2
+Enter directory to preview (press Enter for 'test_files'): 
+
+=================================================================
+  FILE ORGANIZER: DRY-RUN SIMULATION (No files will be modified)  
+=================================================================
+  [2026-10-23 21:46:08] Starting organization for directory: test_files (dry_run=True)
+  [Plan] Move 'annual_report.pdf' -> 'Documents/annual_report.pdf'
+  [Plan] Move 'company_expenses.csv' -> 'Documents/company_expenses.csv'
+  [Plan] Move 'data_analysis.py' -> 'Code_and_Scripts/data_analysis.py'
+  [Plan] Move 'demo_recording.mp4' -> 'Video/demo_recording.mp4'
+  [Plan] Move 'index.html' -> 'Code_and_Scripts/index.html'
+  [Plan] Move 'internship_notes.txt' -> 'Documents/internship_notes.txt'
+  [Plan] Move 'miscellaneous.xyz' -> 'Others/miscellaneous.xyz'
+  [Plan] Move 'podcast_episode.mp3' -> 'Audio/podcast_episode.mp3'
+  [Plan] Move 'profile_picture.png' -> 'Images/profile_picture.png'
+  [Plan] Move 'project_backup.zip' -> 'Archives/project_backup.zip'
+  [Plan] Move 'vacation_photo.jpg' -> 'Images/vacation_photo.jpg'
+=================================================================
+[Finished] Simulated organization of 11 file(s).
+
+====================================================
+  CODEORBIT TECH - FILE AUTOMATION UTILITY  
+====================================================
+1. Generate Sample Test Files (Sandbox)
+2. Preview Organization (Safe Dry-Run)
+3. Organize Files into Category Folders (Live)
+4. Bulk Batch Rename Files
+5. View Activity Audit Log
+6. Exit
+====================================================
+Select an option (1-6): 3
+Enter directory to organize (press Enter for 'test_files'): 
+
+=================================================================
+  FILE ORGANIZER: LIVE EXECUTION  
+=================================================================
+  [2026-10-23 21:46:08] Starting organization for directory: test_files (dry_run=False)
+  [2026-10-23 21:46:08] Moved 'annual_report.pdf' -> 'Documents/annual_report.pdf'
+  [2026-10-23 21:46:08] Moved 'company_expenses.csv' -> 'Documents/company_expenses.csv'
+  [2026-10-23 21:46:08] Moved 'data_analysis.py' -> 'Code_and_Scripts/data_analysis.py'
+  [2026-10-23 21:46:08] Moved 'demo_recording.mp4' -> 'Video/demo_recording.mp4'
+  [2026-10-23 21:46:08] Moved 'index.html' -> 'Code_and_Scripts/index.html'
+  [2026-10-23 21:46:08] Moved 'internship_notes.txt' -> 'Documents/internship_notes.txt'
+  [2026-10-23 21:46:08] Moved 'miscellaneous.xyz' -> 'Others/miscellaneous.xyz'
+  [2026-10-23 21:46:08] Moved 'podcast_episode.mp3' -> 'Audio/podcast_episode.mp3'
+  [2026-10-23 21:46:08] Moved 'profile_picture.png' -> 'Images/profile_picture.png'
+  [2026-10-23 21:46:08] Moved 'project_backup.zip' -> 'Archives/project_backup.zip'
+  [2026-10-23 21:46:08] Moved 'vacation_photo.jpg' -> 'Images/vacation_photo.jpg'
+=================================================================
+[Finished] Successfully organized 11 file(s).
+Audit log saved to: automation_log.txt
+
+====================================================
+  CODEORBIT TECH - FILE AUTOMATION UTILITY  
+====================================================
+Select an option (1-6): 6
+Thank you for using CodeOrbit File Automation. Goodbye!

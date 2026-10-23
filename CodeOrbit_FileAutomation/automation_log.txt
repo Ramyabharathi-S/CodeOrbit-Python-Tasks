@@ -1,0 +1,13 @@
+[2026-10-23 21:46:08] Starting organization for directory: test_files (dry_run=True)
+[2026-10-23 21:46:08] Starting organization for directory: test_files (dry_run=False)
+[2026-10-23 21:46:08] Moved 'annual_report.pdf' -> 'Documents/annual_report.pdf'
+[2026-10-23 21:46:08] Moved 'company_expenses.csv' -> 'Documents/company_expenses.csv'
+[2026-10-23 21:46:08] Moved 'data_analysis.py' -> 'Code_and_Scripts/data_analysis.py'
+[2026-10-23 21:46:08] Moved 'demo_recording.mp4' -> 'Video/demo_recording.mp4'
+[2026-10-23 21:46:08] Moved 'index.html' -> 'Code_and_Scripts/index.html'
+[2026-10-23 21:46:08] Moved 'internship_notes.txt' -> 'Documents/internship_notes.txt'
+[2026-10-23 21:46:08] Moved 'miscellaneous.xyz' -> 'Others/miscellaneous.xyz'
+[2026-10-23 21:46:08] Moved 'podcast_episode.mp3' -> 'Audio/podcast_episode.mp3'
+[2026-10-23 21:46:08] Moved 'profile_picture.png' -> 'Images/profile_picture.png'
+[2026-10-23 21:46:08] Moved 'project_backup.zip' -> 'Archives/project_backup.zip'
+[2026-10-23 21:46:08] Moved 'vacation_photo.jpg' -> 'Images/vacation_photo.jpg'

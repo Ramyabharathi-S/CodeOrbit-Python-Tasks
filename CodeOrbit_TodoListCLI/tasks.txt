@@ -1,0 +1,5 @@
+[ ] Review CodeOrbit Python Tasks PDF
+[X] Complete Simple Calculator Task
+[ ] Build To-Do List CLI App
+[ ] Push completed projects to GitHub
+[ ] Record LinkedIn demonstration video

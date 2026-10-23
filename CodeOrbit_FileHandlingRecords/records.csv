@@ -1,0 +1,5 @@
+StudentID,FullName,Email,Course,Grade
+STU101,Aarav Sharma,aarav.sharma@example.com,Python Programming,A
+STU102,Diya Patel,diya.patel@example.com,Data Science,A+
+STU103,Rohan Verma,rohan.v@example.com,Web Development,B
+STU104,Priya Nair,priya.nair@example.com,Machine Learning,A

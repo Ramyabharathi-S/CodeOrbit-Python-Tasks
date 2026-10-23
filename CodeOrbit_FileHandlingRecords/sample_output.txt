@@ -1,0 +1,78 @@
+Welcome to CodeOrbit Student Records Management System!
+
+=============================================
+  CODEORBIT TECH - STUDENT RECORDS MANAGER   
+=============================================
+1. View All Records
+2. Add New Record
+3. Search Records
+4. Delete Record
+5. Exit
+=============================================
+Select an option (1-5): 1
+
+--- ALL STUDENT RECORDS ---
+
+================================================================================
+ID       | Full Name              | Email                        | Course         | Grade
+--------------------------------------------------------------------------------
+STU101   | Aarav Sharma           | aarav.sharma@example.com     | Python Programming | A    
+STU102   | Diya Patel             | diya.patel@example.com       | Data Science   | A+   
+STU103   | Rohan Verma            | rohan.v@example.com          | Web Development | B    
+================================================================================
+Total Records: 3
+
+=============================================
+  CODEORBIT TECH - STUDENT RECORDS MANAGER   
+=============================================
+1. View All Records
+2. Add New Record
+3. Search Records
+4. Delete Record
+5. Exit
+=============================================
+Select an option (1-5): 2
+
+--- ADD NEW STUDENT RECORD ---
+Enter Student ID (e.g. STU104): STU104
+Enter Full Name: Priya Nair
+Enter Email Address: priya.nair@example.com
+Enter Course: Machine Learning
+Enter Grade (A+, A, B, C, D, F): A
+[Success] Student record for 'Priya Nair' (ID: STU104) added successfully!
+
+=============================================
+  CODEORBIT TECH - STUDENT RECORDS MANAGER   
+=============================================
+1. View All Records
+2. Add New Record
+3. Search Records
+4. Delete Record
+5. Exit
+=============================================
+Select an option (1-5): 3
+
+--- SEARCH STUDENT RECORDS ---
+Enter search term (Student ID, Name, or Course): machine
+
+Search results for 'machine':
+
+================================================================================
+ID       | Full Name              | Email                        | Course         | Grade
+--------------------------------------------------------------------------------
+STU104   | Priya Nair             | priya.nair@example.com       | Machine Learning | A    
+================================================================================
+Total Records: 1
+
+=============================================
+  CODEORBIT TECH - STUDENT RECORDS MANAGER   
+=============================================
+1. View All Records
+2. Add New Record
+3. Search Records
+4. Delete Record
+5. Exit
+=============================================
+Select an option (1-5): 5
+
+Thank you for using CodeOrbit Records Manager. Goodbye!

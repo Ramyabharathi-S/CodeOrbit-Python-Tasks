@@ -1,0 +1,39 @@
+====================================================
+      CODEORBIT TECH - NUMBER GUESSING GAME         
+====================================================
+Welcome! Test your intuition and deduction skills.
+
+Select Difficulty Level:
+  1. Easy   (Range: 1 to 50)
+  2. Medium (Range: 1 to 100) [Default]
+  3. Hard   (Range: 1 to 200)
+Enter difficulty (1/2/3, press Enter for Medium): 1
+
+==================================================
+               ROUND 1 (Easy)               
+==================================================
+I have selected a secret number between 1 and 50.
+Can you guess what it is? Enter your guesses below.
+--------------------------------------------------
+Attempt #1 - Enter your guess: 25
+-> Too LOW! Try a higher number.
+Attempt #2 - Enter your guess: 45
+-> Too HIGH! Try a lower number. (Getting warm!)
+Attempt #3 - Enter your guess: 41
+
+**************************************************
+ BINGO! You guessed the secret number: 41!
+ Total attempts taken in this round: 3
+**************************************************
+Performance: Legendary! Mind reader level!
+
+Would you like to play another round? (y/n): n
+
+====================================================
+                 GAME OVER - SUMMARY                
+====================================================
+Total rounds played : 1
+Best score (fewest) : 3 attempts
+Average attempts    : 3.0 per round
+====================================================
+Thank you for playing CodeOrbit Number Guessing Game!

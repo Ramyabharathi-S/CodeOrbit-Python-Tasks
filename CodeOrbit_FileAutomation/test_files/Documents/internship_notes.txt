@@ -1,0 +1,2 @@
+Sample dummy data for internship_notes.txt
+Created for CodeOrbit Automation Test.

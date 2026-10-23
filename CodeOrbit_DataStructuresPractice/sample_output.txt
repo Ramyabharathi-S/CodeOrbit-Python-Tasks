@@ -1,0 +1,91 @@
+Welcome to CodeOrbit Simple Data Structures Practice!
+
+==================================================
+  CODEORBIT TECH - DATA STRUCTURES PRACTICE  
+==================================================
+1. Run All 4 Problems (Full Automated Showcase)
+2. Problem 1: Duplicate Remover & Set Ops (Lists & Sets)
+3. Problem 2: Word Frequency Counter (Dictionaries)
+4. Problem 3: Student Gradebook Statistics (Dicts + Lists)
+5. Problem 4: Mutual Interests & Set Matcher (Sets)
+6. Exit
+==================================================
+Select an option (1-6): 1
+
+#################################################################
+   RUNNING ALL 4 DATA STRUCTURE PRACTICE PROBLEMS (DEMO MODE)    
+#################################################################
+
+============================================================
+  PROBLEM 1: Duplicate Remover & Set Operations (Lists & Sets)  
+============================================================
+Original list with duplicates : ['apple', 'banana', 'apple', 'orange', 'banana', 'kiwi', 'apple']
+Duplicates removed (ordered)  : ['apple', 'banana', 'orange', 'kiwi']
+
+Set Operations on Tech Skills:
+  Team A Skills        : {'Java', 'JavaScript', 'C++', 'Python'}
+  Team B Skills        : {'Java', 'Go', 'Rust', 'Python'}
+  Combined (Union)     : {'Java', 'JavaScript', 'Python', 'C++', 'Go', 'Rust'}
+  Common (Intersection): {'Java', 'Python'}
+  Only Team A (Diff)   : {'JavaScript', 'C++'}
+  Unique to Either     : {'JavaScript', 'Go', 'C++', 'Rust'}
+
+============================================================
+  PROBLEM 2: Word Frequency Counter (Dictionaries)              
+============================================================
+Input Text:
+  "Python is powerful and Python is fun. CodeOrbit helps you learn Python step by step with hands-on practice and practical projects."
+
+Statistics: 21 Total Words | 16 Unique Words
+All Word Counts (Dictionary):
+  - 'and': 2
+  - 'by': 1
+  - 'codeorbit': 1
+  - 'fun': 1
+  - 'handson': 1
+  - 'helps': 1
+  - 'is': 2
+  - 'learn': 1
+  - 'powerful': 1
+  - 'practical': 1
+  - 'practice': 1
+  - 'projects': 1
+  - 'python': 3
+  - 'step': 2
+  - 'with': 1
+  - 'you': 1
+
+Top 3 Most Frequent Words:
+  #1: 'python' (appears 3 times)
+  #2: 'is' (appears 2 times)
+  #3: 'and' (appears 2 times)
+
+============================================================
+  PROBLEM 3: Student Gradebook & Statistics (Dicts + Lists)     
+============================================================
+Student      | Scores               | Total  | Average  | Grade
+------------------------------------------------------------
+Aarav        | [88, 92, 95, 89]     | 364    | 91.00    | A+   
+Diya         | [94, 98, 91, 96]     | 379    | 94.75    | A+   
+Rohan        | [72, 68, 75, 70]     | 285    | 71.25    | B    
+Ananya       | [85, 87, 84, 90]     | 346    | 86.50    | A    
+------------------------------------------------------------
+Top Performer: Diya with average score of 94.75%
+
+============================================================
+  PROBLEM 4: Mutual Connections & Interest Matcher (Sets)       
+============================================================
+Interests of Dev A: {'Gaming', 'Robotics', 'AI', 'Python', 'Cloud'}
+Interests of Dev B: {'Robotics', 'AI', 'Design', 'Web Dev', 'Python'}
+
+Mutual Interests      : {'Robotics', 'AI', 'Python'}
+Exclusive to Dev A     : {'Gaming', 'Cloud'}
+Exclusive to Dev B     : {'Design', 'Web Dev'}
+Match Similarity Index: 42.9% match
+
+#################################################################
+   ALL 4 DATA STRUCTURE PROBLEMS COMPLETED SUCCESSFULLY!        
+#################################################################
+
+Select an option (1-6): 6
+Thank you for exploring Python Data Structures. Goodbye!
